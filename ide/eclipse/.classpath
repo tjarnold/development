@@ -121,6 +121,8 @@
 	<classpathentry kind="src" path="out/target/common/R"/>
 	<classpathentry kind="src" path="external/apache-http/src"/>
 	<classpathentry kind="src" path="external/bouncycastle/bcprov/src/main/java"/>
+	<classpathentry kind="src" path="external/koush/Superuser/Superuser/src"/>
+	<classpathentry kind="src" path="external/koush/Widgets/Widgets/src"/>
 	<classpathentry kind="src" path="external/libphonenumber/java/src"/>
 	<classpathentry kind="src" path="external/mp4parser/isoparser/src/main/java"/>
 	<classpathentry kind="src" path="external/nist-sip/java"/>
